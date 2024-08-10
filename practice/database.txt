@@ -1,0 +1,4 @@
+Name : Umar		Roll_no : 1		MARKS : 100
+Name : Arun		Roll_no : 2		MARKS : 120
+Name : Danish		Roll_no : 3		MARKS : 100
+Name : Raju		Roll_no : 4		MARKS : 1000
